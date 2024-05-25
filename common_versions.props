@@ -1,0 +1,33 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <LangVersion>11.0</LangVersion>
+
+    <EcngVer>1.0.*</EcngVer>
+    <SampleHistoryDataVersion>1.*</SampleHistoryDataVersion>
+    <StockSharpVer>5.*</StockSharpVer>
+
+    <MathNumVer>5.0.0</MathNumVer>
+    <ProtobufNetVer>3.1.17</ProtobufNetVer>
+    <HtmlAgilityPackVer>1.11.45</HtmlAgilityPackVer>
+    <JwtVer>9.0.3</JwtVer>
+    <FluentFtpVer>40.0.0</FluentFtpVer>
+    <CSharpVer>4.7.0</CSharpVer>
+    <SignalRVer>2.4.3</SignalRVer>
+    <MsTestVer>3.*</MsTestVer>
+    <MsTestSdkVer>17.*</MsTestSdkVer>
+    <MsExtensionsVer>6.*</MsExtensionsVer>
+    <NuGetApiVer>6.8.0</NuGetApiVer>
+    <MicrosoftDataSqlClientVer>5.1.4</MicrosoftDataSqlClientVer>
+    <AsyncLinqVer>6.0.1</AsyncLinqVer>
+    <SBEVer>1.23.1.1</SBEVer>
+    <SpectreVer>0.48.0</SpectreVer>
+    <AWSSDKVer>3.*</AWSSDKVer>
+    <GeneticSharpVer>3.1.4</GeneticSharpVer>
+    <InterprocessVer>2.0.0-alpha176</InterprocessVer>
+    <SharpPcapVer>6.*</SharpPcapVer>
+
+    <MicrosoftCodeAnalysisCSharpVer>4.8.0</MicrosoftCodeAnalysisCSharpVer>
+    <MicrosoftCodeAnalysisAnalyzersVer>3.3.4</MicrosoftCodeAnalysisAnalyzersVer>
+  </PropertyGroup>
+</Project>
